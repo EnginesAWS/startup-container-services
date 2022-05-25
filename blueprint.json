@@ -1,0 +1,9 @@
+{
+	"identifier": "startup-container-services",
+	"about": {
+		"title": "Startup Container Services",
+		"explanation": "An infrastructure binder blueprint for the simplest support of AWS Container Services"
+	},
+	"bindings": [
+	]
+}
